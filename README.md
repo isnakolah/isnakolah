@@ -7,7 +7,7 @@
 :point_right: @ me on [Twitter](https://twitter.com/is_nakolah) on anything!
 - 🌱 I’m currently learning the asp.net with C#
 - 🔭 I code C#, Javascipt and Python.
-- ⚡ Fun fact: Not to toot my own horn, but I am really awesome😂
+- ⚡ Fun fact: Not to toot my own horn, but I am awesome😂
 
 <!--
 **isnakolah/isnakolah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
