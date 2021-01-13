@@ -5,8 +5,8 @@
 
 ### :coffee: Wanna reach me?
 :point_right: @ me on [Twitter](https://twitter.com/is_nakolah) on anything!
-- 🌱 I’m currently learning the asp.net with C#
-- 🔭 I code C#, Javascript and Python.
+- 🌱 I’m currently learning the beautiful GoLang
+- 🔭 I code Go, C#, Javascript and Python.
 - ⚡ Fun fact: Not to toot my own horn, but I am really awesome😂
 
 <!--
