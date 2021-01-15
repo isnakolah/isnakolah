@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
-:wave: Nakolah here, I am fullstack developer in Nairobi, Kenya.
+:wave: Nakolah here, I am a fullstack developer in Nairobi, Kenya.
 
 ### :coffee: Wanna reach me?
 :point_right: @ me on [Twitter](https://twitter.com/is_nakolah) on anything!
