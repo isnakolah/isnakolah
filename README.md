@@ -5,12 +5,11 @@
 
 ### :coffee: Wanna reach me?
 :point_right: @ me on [Twitter](https://twitter.com/is_nakolah) on anything!
-- 🌱 I’m currently learning CI/CD with Github Actions as well cloud computing with Azure.
+- 🌱 I’m currently learning the beautiful language of Rust.
 - 🔭 I code C#(Dotnet), React with JS/TS and Python(Django).
 - ⚡ Fun fact: Not to toot my own horn, but I am really awesome😂
 
-- 🔭 Follow my learning [here](https://www.github.com/isnakolah/learning)
-- ⚒️ Build with me my [blogging engine](https://www.github.com/isnakolah/blog)
+- 🔭 Follow my learning [here](https://www.github.com/isnakolah/rust-learning)
 
 <!--
 **isnakolah/isnakolah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
